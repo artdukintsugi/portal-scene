@@ -53,7 +53,6 @@ gui
   });
 
 // Portal light material
-
 debugObject.portalColorStart = "#000000";
 debugObject.portalColorEnd = "#5a197f";
 
